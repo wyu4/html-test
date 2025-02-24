@@ -1,2 +1,2 @@
 # github-profile
-Profile porfolio
+Profile porfolio on GitHub
