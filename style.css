@@ -1,0 +1,13 @@
+#specialp{
+    color:aliceblue;
+    background-color: black;
+    font-size: large;
+}
+
+#specialdiv{
+    width: 10%;
+    height: 10%;
+    background-color: aqua;
+    padding: 10%;
+    border: 10px solid black;
+}
